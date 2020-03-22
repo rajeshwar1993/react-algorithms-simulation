@@ -1,8 +1,12 @@
 {
   "name": "react-algorithms-simulation",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Data Structures and Algo made in react",
+  "keywords": [
+    "algorithms",
+    "react",
+    "data structures"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.12.0",
